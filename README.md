@@ -1,4 +1,4 @@
-![logo](https://img.freepik.com/free-vector/code-testing-cartoon-banner-functional-test-methodology-programming-search-errors-bugs-website-platform-development-dashboard-usability-optimization-computer-pc-vector-illustration_107791-3766.jpg?w=1380&t=st=1691679964~exp=1691680564~hmac=a6e0c5059fc088b0c3994773b46bb285a62109045e90f23aa60905e955a635ad)
+![logo](https://github.com/viking54/viking54/blob/main/10487786_18824957.jpg)
 <h1 align="center">Hi 👋, I'm Piyush Chaudhary</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
