@@ -11,9 +11,6 @@
 
 - ⚡ Fun fact **😂😂😂😂😂😂😂**
 
-- 📄 Know about my experiences :  https://drive.google.com/file/d/1wp3fJ0Svv3ZlVhaH3lhPgx0-YWF84MaK/view?usp=sharing
-
-
 
 
 
